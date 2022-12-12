@@ -10,12 +10,10 @@ Además, una vez generado el fichero con los tableros sucesivos de una partida d
 ♜	♞	♝	♛	♚	♝	♞	♜
 
 ♟	♟	♟		♟	♟	♟	♟
-
 							
 			♟				
 
 						♙	
-
 							
 ♙	♙	♙	♙	♙	♙		♙
 
